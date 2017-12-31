@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=”utf-Eight″>
+<judul>Channel Youtube</judul>
+<meta content material=’width=device-width, initial-scale=1′ identify=’viewport’>
+<hyperlink href=’https://fonts.googleapis.com/css?household=Roboto:100,200,300,400italic,400,500,500italic,700,700italic,900′ rel=’stylesheet’ sort=’textual content/css’/>
+<model>
+physique 
+  background-color:white;
+  margin:zero;
+  padding:zero;
+  shade:#212121;
+  font-family:Roboto,Arial,sans-serif;
+
+a 
+  shade:#212121;
+  text-decoration:none;
+
+a:hover shade:#0379C4
+iframeborder:zero
+h4margin:2px zero zero;font-size:14px
+.sub-box
+padding:zero 5px 5px;
+    border:1px stable #dedede;
+border-top:none;
+border-radius:zero zero 3px 3px
+
+</model>
+</head>
+<physique>
+<div model=”text-align:heart;margin:zero auto;width:100%;”>
+<div model=”place:relative;padding-bottom:56.25%;top:zero;overflow:hidden;margin:zero;”>
+<iframe src=”https://www.youtube.com/embed/videoseries?checklist=PLUJJYv8UXll3pJvreJylmQhzX73F3CouS” model=”border:zero;place:absolute;prime:zero;left:zero;width:100%;top:100%;” allowfullscreen></iframe>
+</div>
+</div>
+<div class=”sub-box”>
+<h4>Subscribe me</h4>
+<script src=”https://apis.google.com/js/platform.js”></script>
+<div class=”g-ytsubscribe” data-channelid=”https://www.youtube.com/channel/UCNDWe40B3N_GQseZZn79ksg” data-layout=”full” data-count=”default”></div>
+</div>
+</physique>
+</html>
